@@ -268,16 +268,3 @@ __pycache__/
 *.check_cache
 *.txt
 /Assignment 1.pdf
-Template/imgui.ini
-Template/Intermediate/Debug/Template.exe.recipe
-Template/Intermediate/Debug/Template.tlog/CL.command.1.tlog
-Template/Intermediate/Debug/Template.tlog/CL.read.1.tlog
-Template/Intermediate/Debug/Template.tlog/CL.write.1.tlog
-Template/Intermediate/Debug/Template.tlog/link.command.1.tlog
-Template/Intermediate/Debug/Template.tlog/link.read.1.tlog
-Template/Intermediate/Debug/Template.tlog/link.write.1.tlog
-Template/Intermediate/Debug/Template.tlog/Template.lastbuildstate
-Template/Intermediate/Debug/Template.vcxproj.FileListAbsolute.txt
-Template/Intermediate/Debug/vc142.idb
-Template/Template.vcxproj
-Template/Template.vcxproj.filters
